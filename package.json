@@ -67,9 +67,6 @@
   "scripts": {
     "test": "vows 'test/*.js'"
   },
-  "browser": {
-    "http": "@tradle/react-native-http",
-    "https": "git+https://github.com/Cortes-Maria/https-browserify.git"
-  },
+
   "version": "1.3.2"
 }
