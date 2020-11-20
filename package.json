@@ -33,6 +33,7 @@
   },
   "bundleDependencies": false,
   "dependencies": {
+    "https-browserify": "git+https://github.com/Cortes-Maria/https-browserify.git",
     "sax": "1.2.x",
     "xmlbuilder": "8.2.x"
   },
